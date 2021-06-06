@@ -5,6 +5,6 @@
   "repository": "git@github.com:imflavio/prettier-config.git",
   "author": "Flávio Carvalho <flavio@imflavio.com>",
   "dependencies": {
-    "prettier": "1.19.1"
+    "prettier": "2.3.1"
   }
 }
